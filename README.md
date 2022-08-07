@@ -20,4 +20,11 @@ Servisler:
 
 ticket-service ve ticket-service-admin API endpointleri ile dokümantasyona [linkten](https://documenter.getpostman.com/view/19776700/VUjMoRFu) ulaşabilirsiniz. 
 
+Projede istenen servislerin basit şeması aşağıda verilmiştir.
 ![Application Chart](https://i.ibb.co/t4N8R0n/final-drawio.png)
+
+Service ve Controller sınıfları için Test kapsayıcılığı aşağıda verilmiştir.
+![Test Chart](https://i.ibb.co/KwDf19v/Screenshot-from-2022-08-08-01-17-09.png)
+
+
+
