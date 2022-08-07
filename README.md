@@ -18,6 +18,6 @@ Servisler:
 - Bilet Bildirim Servisi (ticket-notification-service): Kullanıcının ticket-service'de yaptığı işlemler sonrası devreye giren ve kullanıcıya mail veya sms gönderen mikroservis. Asenkron çalışmaktadır.
 - Bilet Ödeme Servisi (ticket-payment-service): Kullancı bilet satın aldıktan sonra devreye giren, ödeme bilgilerini database'e kaydeden servistir. Senkron çalışmaktadır.
 
-ticket-service API endpointleri ile dokümantasyona [linkten](https://documenter.getpostman.com/view/19776700/VUjMoRFu) ulaşabilirsiniz. 
+ticket-service ve ticket-service-admin API endpointleri ile dokümantasyona [linkten](https://documenter.getpostman.com/view/19776700/VUjMoRFu) ulaşabilirsiniz. 
 
 ![Application Chart](https://i.ibb.co/t4N8R0n/final-drawio.png)
